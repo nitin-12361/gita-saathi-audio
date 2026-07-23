@@ -1,6 +1,0 @@
-{
-  "name": "Gita Saathi",
-  "description": "Read and listen to Bhagavad Gita in Hindi and English with AI audio narration, chapter summaries, search, and daily shlokas.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
